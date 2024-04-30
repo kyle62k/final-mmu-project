@@ -15,16 +15,15 @@ To run the MMU simulator, follow these steps:
 
 2. **Clone the Repository:**
    Clone this repository to your local machine using Git:
-   git clone https://github.com/your-username/mmu-simulator.git
-   
+   git clone [https://github.com/kyle62k/final-mmu-project.git]
 3. **Navigate to the Directory:**
 Use the `cd` command to navigate into the project directory:
-cd mmu-simulator
+cd final-mmu-project
 
 4. **Run the Simulator:**
-Execute the Python script `mmu_simulator.py` using the Python interpreter:
+Execute the Python script `main.py` using the Python interpreter:
 
-python mmu_simulator.py
+python main.py
 
 
 5. **Test the Code:**
